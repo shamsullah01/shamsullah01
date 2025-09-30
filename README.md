@@ -8,7 +8,7 @@ I work with **MERN Stack, Next.js, TypeScript, and modern backend systems** to d
 
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.[linkedin.com/in/shams-ullah-baig](https://www.linkedin.com/in/shams-ullah-baig-8312a018b/))  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamsullah01)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shamsullah999)
 
 ---
 
