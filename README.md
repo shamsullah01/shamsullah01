@@ -26,17 +26,6 @@ I work with **MERN Stack, Next.js, TypeScript, and modern backend systems** to d
 **AI / Data Science:**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=black)  
 
-
-## 📌 Pinned Projects
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=shamsullah01&repo=shams-ullah-portfolio&theme=dark&hide_border=false)](https://github.com/shamsullah01/shams-ullah-portfolio)
-[![Movibox](https://github-readme-stats.vercel.app/api/pin/?username=shamsullah01&repo=movibox&theme=dark&hide_border=false)](https://github.com/shamsullah01/movibox)  
-
-[![Trading Board](https://github-readme-stats.vercel.app/api/pin/?username=shamsullah01&repo=trading-board&theme=dark&hide_border=false)](https://github.com/shamsullah01/trading-board)
-[![Metzworkspaca](https://github-readme-stats.vercel.app/api/pin/?username=shamsullah01&repo=metzworkspaca&theme=dark&hide_border=false)](https://github.com/shamsullah01/metzworkspaca)
-
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shamsullah01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shamsullah01&theme=dark&hide_border=false)  
