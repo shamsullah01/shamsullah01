@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack Developer | 5+ Years Experience**  
 Passionate about building scalable web apps, modern UIs, and open-source contributions.  
-I work with **MERN Stack, Next.js, TypeScript, and modern backend systems** to deliver seamless user experiences.  
+I work with **React, Nest.js, TypeScript, and modern backend systems** to deliver seamless user experiences.  
 
 ---
 
