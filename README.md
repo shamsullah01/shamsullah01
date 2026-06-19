@@ -22,6 +22,4 @@ I'm an **AI Engineer & Full-Stack Developer**. I build LLM apps, RAG pipelines, 
 - **Email Chatbot** — drafts and personalises business emails with memory and tone control.
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=shamsullah01&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsullah01&theme=dark&hide_border=true&layout=compact)
