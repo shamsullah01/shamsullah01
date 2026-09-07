@@ -14,12 +14,7 @@ I'm an **AI Engineer & Full-Stack Developer**. I build LLM apps, RAG pipelines, 
 **Full-Stack:** `React` · `Next.js` · `TypeScript` · `Node.js` · `NestJS` · `Express`
 **Data & Cloud:** `Python` · `MongoDB` · `Postgres` · `AWS` · `Azure` · `Docker`
 ---
-### A few things I've built
 
-- **Freelancer Bidding Agent** — scans marketplaces, scores fit, and drafts bids from a vector store of past wins.
-- **Proposal Writing Agent (IBEX)** — RAG-powered generator that pulls from internal docs to cut proposal turnaround.
-- **Project Search Agent (HCPL)** — finds opportunities, extracts requirements, and ranks them against company strengths.
-- **Email Chatbot** — drafts and personalises business emails with memory and tone control.
 
 ---
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsullah01&theme=dark&hide_border=true&layout=compact)
