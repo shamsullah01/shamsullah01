@@ -13,8 +13,4 @@ I'm an **AI Engineer & Full-Stack Developer**. I build LLM apps, RAG pipelines, 
 **AI/LLM:** `OpenAI` · `Claude` · `LangChain` · `LlamaIndex` · `Pinecone / FAISS / Chroma`
 **Full-Stack:** `React` · `Next.js` · `TypeScript` · `Node.js` · `NestJS` · `Express`
 **Data & Cloud:** `Python` · `MongoDB` · `Postgres` · `AWS` · `Azure` · `Docker`
----
 
-
----
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamsullah01&theme=dark&hide_border=true&layout=compact)
